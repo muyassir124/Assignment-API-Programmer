@@ -1,0 +1,26 @@
+{
+  "name": "latihan",
+  "version": "1.0.0",
+  "description": "ok",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "00"
+  },
+  "repository": {
+    "type": "git",
+    "url": "200"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "ayas",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1", 
+    "pg": "^8.13.0"
+  }
+}
+
